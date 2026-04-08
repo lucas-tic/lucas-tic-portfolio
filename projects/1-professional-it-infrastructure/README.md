@@ -1,7 +1,6 @@
 ---
 type: laboratory
 status: ✅ completed
-date: {{date}}
 tags: [networking, sysadmin, security,]
 ---
 
