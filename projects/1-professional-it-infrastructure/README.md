@@ -11,9 +11,9 @@ tags: [networking, sysadmin, security,]
 > With this lab, the deployment procedure of a professional IT infrastructure will be shown
 
 ## 📑 Table of contents
-* [1. Technical Stack](#technical-stack)
-* [2. Topology Diagram and IP Addresses](#topology-diagram-and-ip-addresses)
-* [3. Implementation Step-by-Step](#implementation-step-by-step)
+* [1. Technical stack](#technical-stack)
+* [2. Topology diagram and IP addresses](#topology-diagram-and-ip-addresses)
+* [3. Implementation step-by-step](#implementation-step-by-step)
     * [3.1. Phase 1](#phase-1)
 
 ## Technical stack
