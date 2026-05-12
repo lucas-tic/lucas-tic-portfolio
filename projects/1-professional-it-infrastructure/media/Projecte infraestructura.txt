@@ -1,0 +1,13 @@
+Engegar el clúster de BD:
+
+galera_new_cluster #al node 1
+systemctl start mariadb #al node 2
+systemctl start mariadb #al node 3
+
+Aturar el clúster de BD:
+
+systemctl stop mariadb #al node 3
+systemctl stop mariadb #al node 2
+systemctl stop mariadb #al node 1
+
+Cal editar manualment a mgmt-client /etc/resolv.conf i incloure les IP del clúster FreeIPA perquè hi hagi resolució correcta de DNS.

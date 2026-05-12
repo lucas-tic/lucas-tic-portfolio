@@ -72,3 +72,6 @@ At this stage I wanted to restrict more the internet access for the web servers,
 ### Phase 14 - FreeIPA
 
 Thanks to FreeIPA I centralized management of users and DNS resolutions in a single cluster. FreeIPA works in an active-active logic and it is very easy to set up once the servers have the basic requirements regarding IP addressing and basic DNS resolution.
+### Possible future improvements
+
+Implement an Ansible server for patching. Implement an OMD server for monitoring.
